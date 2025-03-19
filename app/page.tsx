@@ -13,6 +13,7 @@ export default function Home() {
           <h2>About Me</h2>
           <p>
             This website was created under just an hour using Next.js and with the help of Deepseek and no prior knowledge or experience of the framework.
+            Now it will take 100+ hours just to learn how it works 😁🚀
           </p>
           <button className="button">Learn More</button>
         </section>
